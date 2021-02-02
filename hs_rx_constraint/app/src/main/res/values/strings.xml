@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_text">Click Me</string>
+    <string name="channel_id">222</string>
+    <string name="channel_name">firebase Messaging</string>
+    <string name="notification_id">105</string>
+    <string name="observe_button_text">Observe</string>
+    <string name="operator_text">Operate</string>
+</resources>
