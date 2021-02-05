@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RxRetroMVP</string>
+    <string name="fetch_button_text">Fetch</string>
+</resources>
