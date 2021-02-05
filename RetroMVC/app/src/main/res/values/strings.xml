@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RetroMVC</string>
+    <string name="fetch_data_button">Get Post</string>
+</resources>
